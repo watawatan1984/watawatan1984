@@ -69,6 +69,10 @@ Whisper、Groq、Geminiを利用し、アクティブなアプリへ音声から
 
 TauriとNext.jsを使った音声エージェントの試作です。音声インターフェースとLLMを組み合わせたデスクトップ体験を検証しています。
 
+## Activity log
+
+GitHubでの公開以前から現在までの実務経験と制作物を、[Activity & Project Timeline](./ACTIVITY.md)にまとめています。
+
 ## How I work
 
 1. まず現場の話を聞く
