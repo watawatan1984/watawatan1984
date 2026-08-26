@@ -2,9 +2,9 @@
 
 # わたよし
 
-**社内SE / 一人情シス**
+**社内SE / 一人情シス・アジャイル開発**
 
-> 現場の面倒を、使い続けられる仕組みに。
+> 現場の面倒をシステムで寄せて持続可能な仕組みに。
 
 必要なものを聞いて、作って、運用しています。<br />
 WordPress業務アプリ、音声入力、LLM連携、デスクトップアプリからプラグインなど。
@@ -35,4 +35,4 @@ GASやPythonを使ったMS365・GWS→Slack・discordなどの横断連携やス
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/watawatan1984/watawatan1984/output/snake.svg" />
 </picture>
 
-<p align="center"><sub>要件定義→テスト→実装して→運用・保守まで、1人アジャイル開発</sub></p>
+<p align="center"><sub>要件定義→実装→運用・保守まで、1人アジャイル開発</sub></p>
