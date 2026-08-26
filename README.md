@@ -7,7 +7,8 @@
 > 現場の面倒を、使い続けられる仕組みに。
 
 必要なものを聞いて、作って、運用しています。<br />
-WordPress業務アプリ、音声入力、LLM連携、デスクトップアプリなど。
+WordPress業務アプリ、音声入力、LLM連携、デスクトップアプリからプラグインなど。
+GASやPythonを使ったMS365・GWS→Slack・discordなどの横断連携やスクレイピングまで、実現したいものを言語にとらわれずに実装・運用しています。
 
 ## 使っているもの
 
@@ -34,4 +35,4 @@ WordPress業務アプリ、音声入力、LLM連携、デスクトップアプ�
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/watawatan1984/watawatan1984/output/snake.svg" />
 </picture>
 
-<p align="center"><sub>作る。試す。直す。必要なら、また作る。</sub></p>
+<p align="center"><sub>要件定義→テスト→実装して→運用・保守まで、1人アジャイル開発</sub></p>
