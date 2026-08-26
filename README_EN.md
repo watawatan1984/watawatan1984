@@ -1,15 +1,15 @@
-<p align="right"><a href="./README_EN.md">English</a></p>
+<p align="right"><a href="./README.md">日本語</a></p>
 
-# わたよし
+# Yoshiki Watanabe
 
-**社内SE / 一人情シス**
+**In-house systems / Solo IT**
 
-> 現場の面倒を、使い続けられる仕組みに。
+> Build close to the work, then keep it running.
 
-必要なものを聞いて、作って、運用しています。<br />
-WordPress業務アプリ、音声入力、LLM連携、デスクトップアプリなど。
+I listen, build, and operate the tools that day-to-day work requires.<br />
+WordPress-based internal apps, voice input, LLM integrations, and desktop applications.
 
-## 使っているもの
+## Tools I use
 
 <p align="center">
   <picture>
@@ -17,16 +17,16 @@ WordPress業務アプリ、音声入力、LLM連携、デスクトップアプ�
   </picture>
 </p>
 
-## 作っているもの
+## Things I am building
 
 - **[FieldOps](https://github.com/watawatan1984/FieldOps-Portfolio)**<br />
-  業務の流れを、運用できるシステムとして組み立てるポートフォリオ。
+  A portfolio project for shaping operational workflows into a system that can be maintained and run.
 
 - **[Voice In](https://github.com/watawatan1984/voice-inn-linux)**<br />
-  話した言葉を、普段使うアプリへ入力できる音声入力ツール。
+  A voice input tool that sends spoken words into the applications you already use.
 
 - **[Tauri Voice Agent](https://github.com/watawatan1984/tauri-voice-agent)**<br />
-  音声とLLMをデスクトップで扱うための試作。
+  An experiment in bringing voice and LLM workflows to the desktop.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/watawatan1984/watawatan1984/output/snake-dark.svg" />
@@ -34,4 +34,4 @@ WordPress業務アプリ、音声入力、LLM連携、デスクトップアプ�
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/watawatan1984/watawatan1984/output/snake.svg" />
 </picture>
 
-<p align="center"><sub>作る。試す。直す。必要なら、また作る。</sub></p>
+<p align="center"><sub>Build. Try. Fix. Repeat when necessary.</sub></p>
