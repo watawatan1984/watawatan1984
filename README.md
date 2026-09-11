@@ -15,10 +15,34 @@
 
 ## 使っているもの
 
+<p align="center"><strong>言語</strong></p>
 <p align="center">
-  <picture>
-    <img src="https://skillicons.dev/icons?i=wordpress,php,js,ts,react,tailwind,python,rust,cs,dotnet,postgres,tauri,git,linux&perline=7" alt="WordPress, PHP, JavaScript, TypeScript, React, Tailwind, Python, Rust, C#, .NET, PostgreSQL, Tauri, Git, Linux" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=html,js,ts,php,python,rust,cs,go,ruby&perline=9" alt="HTML, JavaScript, TypeScript, PHP, Python, Rust, C#, Go, Ruby" />
+</p>
+
+<p align="center"><strong>FW / ライブラリ</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,dotnet,tauri&perline=5" alt="React, Next.js, Tailwind, .NET, Tauri" />
+</p>
+
+<p align="center"><strong>アプリケーション</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" />
+</p>
+
+<p align="center"><strong>データベース</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL, MySQL" />
+</p>
+
+<p align="center"><strong>プラットフォーム</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,linux" alt="Vercel, Linux" />
+</p>
+
+<p align="center"><strong>ツール</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,postman" alt="Git, Postman" />
 </p>
 
 ## 作っているもの
