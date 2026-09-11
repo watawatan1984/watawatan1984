@@ -2,31 +2,35 @@
 
 # Yoshiki Watanabe
 
-**In-house systems / Solo IT**
+**In-house systems / Solo IT · Agile**
 
 > Build close to the work, then keep it running.
 
-I listen, build, and operate the tools that day-to-day work requires.<br />
-WordPress-based internal apps, voice input, LLM integrations, and desktop applications.
+I build, fix, and operate the tools day-to-day work needs — fast PDCA, solo agile.
+
+- Replace parts of internal work with apps (WordPress) → cut communication cost
+- Real-time transcription during calls via voice input → less typing
+- Cross-link email and SaaS with APIs / LLMs → smoother ops
+- Ship in whatever fits: GAS, Python, C#, PHP, Ruby, and more
 
 ## Tools I use
 
 <p align="center">
   <picture>
-    <img src="https://skillicons.dev/icons?i=wordpress,php,js,ts,python,rust,cs,dotnet,postgres,tauri,git,linux&perline=6" alt="WordPress, PHP, JavaScript, TypeScript, Python, Rust, C#, .NET, PostgreSQL, Tauri, Git, Linux" />
+    <img src="https://skillicons.dev/icons?i=wordpress,php,js,ts,react,tailwind,python,rust,cs,dotnet,postgres,tauri,git,linux&perline=7" alt="WordPress, PHP, JavaScript, TypeScript, React, Tailwind, Python, Rust, C#, .NET, PostgreSQL, Tauri, Git, Linux" />
   </picture>
 </p>
 
 ## Things I am building
 
-- **[FieldOps](https://github.com/watawatan1984/FieldOps-Portfolio)**<br />
-  A portfolio project for shaping operational workflows into a system that can be maintained and run.
+- **[Voice In](https://github.com/watawatan1984/voice-inn-linux)** (Python + Rust)  
+  Voice input + AI. Beyond filler removal — from prompts to blog drafts. Transcription that evolved.
 
-- **[Voice In](https://github.com/watawatan1984/voice-inn-linux)**<br />
-  A voice input tool that sends spoken words into the applications you already use.
+- **[FieldOps](https://github.com/watawatan1984/FieldOps-Portfolio)** (C#)  
+  A boilerplate for multi-store operations.
 
-- **[Tauri Voice Agent](https://github.com/watawatan1984/tauri-voice-agent)**<br />
-  An experiment in bringing voice and LLM workflows to the desktop.
+- **[AI Dev Zukan](https://github.com/watawatan1984/ai-dev-zukan)** (Ruby)  
+  One place for scattered AI tools and information.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/watawatan1984/watawatan1984/output/snake-dark.svg" />
